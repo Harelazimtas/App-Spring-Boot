@@ -1,0 +1,5 @@
+com\example\demo\api\models\Item.class
+com\example\demo\AppItemApplication.class
+com\example\demo\api\controller\ItemController.class
+com\example\demo\SwaggerConfiguration.class
+com\example\demo\api\service\RepositoryItem.class
