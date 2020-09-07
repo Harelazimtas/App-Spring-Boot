@@ -1,6 +1,4 @@
-
 package com.example.demo.api.models;
-
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -71,4 +69,3 @@ public class Item {
                 '}';
     }
 }
-//spring-boot-starter-web
