@@ -27,9 +27,9 @@ Using the CrudRepository you can access the table as well as update the data.
 
 <h3>Add a product using Postman</h3>
 </br>
-<img src="/Images/AddItem.PNG" alt="AddItem" style="float:right;width:10px;height:10px;">
+<img src="/Images/AddItem.PNG" alt="AddItem" style="float:right;width="50" height="50">
 </br>
-<h3>Data Bast- H2</h3>
+<h3>Data Base- H2 after add product</h3>
 </br>
 <img src="/Images/DB-AddItem.PNG" alt="DB-AddItem" style="float:right;width:10px;height:10px;">
 </br>
