@@ -62,5 +62,13 @@ Docker Container: used to run a docker image instance.
 Docker Hub: Storage space for docker image.
 </pre>
 
+<h3>Run Spring Boot on Ubuntu.</h3>
+<pre>
+<ul>
+<li>sudo docker pull hareldocker1/spring-docker-image:latests.</li>
+<li>sudo docker images.</li>
+<li>sudo docker run -p 8080:8080 NAME_IMAGE</li>
+<ul>
+</pre>
 
 
