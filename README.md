@@ -67,7 +67,7 @@ Docker Hub: Storage space for docker image.
 <ul>
 <li>sudo docker pull hareldocker1/spring-docker-image:latests.</li>
 <li>sudo docker images.</li>
-<li>sudo docker run -p 8080:8080 NAME_IMAGE</li>
+<li>sudo docker run -p 8080:8080 IMAGE_NAME</li>
 <ul>
 </pre>
 
