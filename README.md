@@ -1,7 +1,13 @@
 # App-Spring-Boot
 
-The project includes: a web that includes api, data base, creating an image with Docker,  document for api in swagger.
-
+The project includes: a web that includes api, data base, creating an image with Docker,  document for API in Swagger.
+</br>
+The Spring Boot avialble at: "http://localhost:8080"
+</br>
+The DB avilable at: "http://localhost:8080/h2/login.do"
+</br>
+The Swagger UI avilable at: "http://localhost:8080/swagger-ui/"
+</br>
 <h2>Application API</h2>
 </br>
 <pre>
@@ -25,11 +31,24 @@ CrudRepository implements basic CRUD operations, including count, delete, delete
 Using the CrudRepository you can access the table as well as update the data.
 </pre>
 
-<h3>Add a product using Postman</h3>
+<h3>Add a product using Postman.</h3>
 </br>
-<img src="/Images/AddItem.PNG" alt="AddItem" style="float:right;width="50" height="50">
+<img src="/Images/AddItem.PNG" alt="AddItem" width="450" height="350">
 </br>
-<h3>Data Base- H2 after add product</h3>
+<h3>Data Base-H2: after add product.</h3>
 </br>
-<img src="/Images/DB-AddItem.PNG" alt="DB-AddItem" style="float:right;width:10px;height:10px;">
+<img src="/Images/DB-AddItem.PNG" alt="DB-AddItem" width="450" height="350">
 </br>
+
+<h2>Swagger API document </h2>
+<pre>
+Swagger is open source that describes the Rest API document.
+APIs help the client understand how to use the API.
+Restful does not have an API document, so Swagger solves the problem of creating API documents.
+</pre>
+</br>
+<img src="/Images/Swagger-API.PNG" alt="Swagger-API" width="450" height="350">
+</br>
+
+<h2>Docker</h2>
+
