@@ -8,6 +8,8 @@ The DB avilable at: "http://localhost:8080/h2/login.do"
 </br>
 The Swagger UI avilable at: "http://localhost:8080/swagger-ui/"
 </br>
+The Docker image avilable at Docker Hub, download image and run application: sudo docker pull hareldocker1/spring-docker-image:latests
+</br>
 <h2>Application API</h2>
 </br>
 <pre>
@@ -24,6 +26,7 @@ The application Include APIs:
 
 <h2>Data Base-H2</h2>
 <pre>
+Repository: Local storage for software packages usually tables with data.
 @Repository is a marker annotation, which indicates that the underlying interface is a repository. 
 A repository is created by extending specific repository interfaces, 
 such as CrudRepository, PagingAndSortingRepository, or JpaRepository.
@@ -51,4 +54,13 @@ Restful does not have an API document, so Swagger solves the problem of creating
 </br>
 
 <h2>Docker</h2>
+<pre>
+Docker is software that allows you to run applications on different operating systems, and create docker image.
+Allows to deploy efficiently on different platforms.
+Docker File: file that contain all requirement and dependency to run application.
+Docker Container: used to run a docker image instance.
+Docker Hub: Storage space for docker image.
+</pre>
+
+
 
