@@ -43,7 +43,7 @@ Using the CrudRepository you can access the table as well as update the data.
 <img src="/Images/DB-AddItem.PNG" alt="DB-AddItem" width="450" height="350">
 </br>
 
-<h2>Swagger API document </h2>
+<h2>Swagger API Document </h2>
 <pre>
 Swagger is open source that describes the Rest API document.
 APIs help the client understand how to use the API.
